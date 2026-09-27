@@ -110,5 +110,6 @@ public class Main {
     }
     static void searchBooks(){
         System.out.println("目前的书籍如下：");
+        System.out.println("目前的书籍如下：");
     }
 }
